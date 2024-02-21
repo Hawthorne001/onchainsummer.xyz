@@ -52,7 +52,7 @@
     "react-youtube": "^10.1.0",
     "rehype-raw": "^6.1.1",
     "remark-gfm": "^3.0.1",
-    "sass": "^1.63.6",
+    "sass": "^1.70.0",
     "tailwindcss-radix": "^2.8.0",
     "use-query-params": "^2.2.1",
     "viem": "^1.4.2",
