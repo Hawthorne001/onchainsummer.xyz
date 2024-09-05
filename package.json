@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@coinbase/onchainkit": "^0.6.1",
-    "@commitlint/cli": "^17.6.5",
+    "@commitlint/cli": "^17.6.6",
     "@crossmint/client-sdk-react-ui": "^1.0.1-alpha.4",
     "@eth-optimism/sdk": "^0.0.1",
     "@radix-ui/react-checkbox": "^1.0.4",
@@ -27,9 +27,9 @@
     "@radix-ui/react-separator": "^1.0.3",
     "@radix-ui/react-tabs": "^1.0.4",
     "@rainbow-me/rainbowkit": "^1.0.7",
-    "@reservoir0x/reservoir-kit-ui": "^1.5.0",
+    "@reservoir0x/reservoir-kit-ui": "^1.25.5",
     "arweave": "^1.13.7",
-    "axios": "^1.4.0",
+    "axios": "^1.6.8",
     "clsx": "^1.2.1",
     "date-fns": "^2.30.0",
     "date-fns-tz": "^2.0.0",
@@ -56,7 +56,7 @@
     "tailwindcss-radix": "^2.8.0",
     "use-query-params": "^2.2.1",
     "viem": "^1.4.2",
-    "wagmi": "1.4.12"
+    "wagmi": "2.0.1"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.6.5",
