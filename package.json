@@ -37,7 +37,7 @@
     "global": "^4.4.0",
     "graphql": "^16.7.1",
     "graphql-request": "^6.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.43",
     "next": "13.4.13",
