@@ -27,7 +27,7 @@
     "@radix-ui/react-separator": "^1.0.3",
     "@radix-ui/react-tabs": "^1.0.4",
     "@rainbow-me/rainbowkit": "^1.0.7",
-    "@reservoir0x/reservoir-kit-ui": "^1.5.0",
+    "@reservoir0x/reservoir-kit-ui": "^1.25.1",
     "arweave": "^1.13.7",
     "axios": "^1.4.0",
     "clsx": "^1.2.1",
